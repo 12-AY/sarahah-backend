@@ -1,0 +1,4 @@
+export const OTP_PURPOSE = Object.freeze({
+  VERIFY_EMAIL: "VERIFY_EMAIL",
+  RESET_PASSWORD: "RESET_PASSWORD",
+});
